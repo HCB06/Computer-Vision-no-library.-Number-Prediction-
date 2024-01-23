@@ -1,4 +1,4 @@
---- Computer Vision no library. Number Prediction. ---
+--- Computer Vision no library. Number Drawing AI. ---
 
 You must intall octave gnu in your computer.
 
